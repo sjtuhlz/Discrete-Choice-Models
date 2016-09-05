@@ -1,6 +1,5 @@
 
-**ECON 243 Programming Assignment
-**Amber Qureshi Urrutia, Huiling Zhang, Pallavi Panda, Michael Levine
+
 
 
 ***********************************
