@@ -1,4 +1,4 @@
-% June 11, 2013 Empirical IO homework
+
 % use zone*week as market 
 
 clear
